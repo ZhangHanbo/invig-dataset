@@ -50,3 +50,12 @@ As is notoriously known, interaction based on natural language is usually ambigu
 |-|-|
 |Vilbert-Guesser| 55.1%|
 |XVLM-Guesser| 59.7%|
+
+## Examples
+>![img2](./imgs/792915ff00cee3c0.jpg)
+> Human: "Can you pour me a glass of wine?" \
+> Agent: "Which one do you want?" \
+> Human: "This green bottle." \
+> Agent: "It has a glass of wine on the right?" \
+> Human: "Yes, he has poured some." \
+> Agent: `<bounding box: [16.4, 0, 208.8, 550.4]>`
