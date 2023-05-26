@@ -52,7 +52,7 @@ As is notoriously known, interaction based on natural language is usually ambigu
 |XVLM-Guesser| 59.7%|
 
 ## Examples
->![img2](./imgs/792915ff00cee3c0.jpg)
+>![img2](./imgs/792915ff00cee3c0.jpg) \
 > Human: "Can you pour me a glass of wine?" \
 > Agent: "Which one do you want?" \
 > Human: "This green bottle." \
