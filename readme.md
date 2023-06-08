@@ -9,7 +9,7 @@ If you find this dataset useful, please cite:
 
 ```latex
 @misc{invigdataset,
-    title={InViG: Interactive Visual-Language Disambiguation with 21K Human-to-Human Dialogues,
+    title={InViG: Interactive Visual-Language Disambiguation with 21K Human-to-Human Dialogues},
     author={Zhang, Hanbo and Mo, Yuchen and Xu, Jie and Si, Qingyi and Kong, Tao},
     howpublished = {\url{https://github.com/ZhangHanbo/invig-dataset}},
     year={2023}
