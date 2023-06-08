@@ -1,7 +1,7 @@
 
-# invig-dataset
+# InViG Dataset
 
-`invig-dataset` is a dataset, namely InViG, to step towards end-to-end interactive disambiguation. 
+InViG Dataset is a dataset, namely InViG, to step towards end-to-end interactive disambiguation. 
 
 ## Citation
 
