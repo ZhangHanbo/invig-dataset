@@ -3,6 +3,20 @@
 
 `invig-dataset` is a dataset, namely InViG, to step towards end-to-end interactive disambiguation. 
 
+## Citation
+
+If you find this dataset useful, please cite:
+
+```latex
+@misc{invigdataset,
+    title={InViG: Interactive Visual-Language Disambiguation with 21K Human-to-Human Dialogues,
+    author={Zhang, Hanbo and Mo, Yuchen and Xu, Jie and Si, Qingyi and Kong, Tao},
+    howpublished = {\url{https://github.com/ZhangHanbo/invig-dataset}},
+    year={2023}
+    
+}
+```
+
 ## Intro
 
 As is notoriously known, interaction based on natural language is usually ambiguous, making goal-oriented interactive tasks hard for robots to solve. Therefore, we collect 20K human-to-human disambiguation dialogues based on the images filtered from OpenImages. 
