@@ -13,7 +13,6 @@ If you find this dataset useful, please cite:
     author={Zhang, Hanbo and Mo, Yuchen and Xu, Jie and Si, Qingyi and Kong, Tao},
     howpublished = {\url{https://github.com/ZhangHanbo/invig-dataset}},
     year={2023}
-    
 }
 ```
 
