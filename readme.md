@@ -71,7 +71,7 @@ As is notoriously known, interaction based on natural language is usually ambigu
 
 |Image|Dialogue|对话|
 |-|-|-|
-|![](./imgs/image.jpg)|"Please pass me that little toy.<br>OK, which one do you want?<br>One of the small boxes in the front.<br>OK, so there are three, which one is it?<br>The purple one.<br>The one on the left?<br>Yes, there is a pearl on it.<br>|请把那个小玩具递给我一下。<br>好的，想要哪个呢？<br>前边的那个小盒里装的其中一个。<br>好的，那有三个呢，是哪个？<br>紫色那个。<br>左边那个？<br>是的，上边有颗珍珠。<br>|
+|![](./imgs/image.jpg)|Please pass me that little toy.<br>OK, which one do you want?<br>One of the small boxes in the front.<br>OK, so there are three, which one is it?<br>The purple one.<br>The one on the left?<br>Yes, there is a pearl on it.<br>|请把那个小玩具递给我一下。<br>好的，想要哪个呢？<br>前边的那个小盒里装的其中一个。<br>好的，那有三个呢，是哪个？<br>紫色那个。<br>左边那个？<br>是的，上边有颗珍珠。<br>|
 |![](./imgs/image2.jpg)|Can you get me a bottle?<br>Which one do you need?<br>The Coke bottle on the right.<br>Is it a greenish bottle?<br>Yes, it's shorter.<br>OK, here you are.<br>Thank you.<br>|帮我拿一个瓶子可以吗？<br>你需要哪一个？<br>右边的那个可乐瓶。<br>是泛绿色的瓶子吗？<br>是的，它比较矮。<br>好的，给你。<br>谢谢。<br>|
 |![](./imgs/image3.jpg)|There are many keyboards here, all kinds.<br>Yes, maybe the functions are different.<br>Yes, there are big and small ones.<br>Which one do you want?<br>A smaller one, easy to carry.<br>Then you choose one.<br>The one in the lower left corner, the space bar it's long is yellow.<br>|这里有许多键盘，各式各样的。<br>是的，可能功能都不一样。<br>是的，有大有小。<br>想要哪个呢？<br>小点的吧，便于携带。<br>那你挑一个。<br>左下角那个吧，它长的那个空格键是黄色的。<br>|
 
