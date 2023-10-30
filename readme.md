@@ -3,7 +3,7 @@
 
 **NEWS!** We have released a new version of InViG dataset including 500K automatically generated human-robot dialogues including a comprehensive suite of benchmark performance.
 
- ![InViG 500K](https://openivg.github.io) ![Paper](https://arxiv.org/abs/2310.12147)
+ [InViG 500K](https://openivg.github.io) [Paper](https://arxiv.org/abs/2310.12147)
 
 # InViG Datasei
 
